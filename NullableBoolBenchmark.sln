@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullableBoolBenchmark", "NullableBoolBenchmark\NullableBoolBenchmark.csproj", "{02B7CC1D-7B9A-4960-9E80-298986A180F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02B7CC1D-7B9A-4960-9E80-298986A180F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02B7CC1D-7B9A-4960-9E80-298986A180F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02B7CC1D-7B9A-4960-9E80-298986A180F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02B7CC1D-7B9A-4960-9E80-298986A180F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B65BFA6D-74B3-4BC1-B546-F57B6710FE4E}
+	EndGlobalSection
+EndGlobal
